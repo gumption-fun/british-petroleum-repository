@@ -1,6 +1,6 @@
 ---
-Title: sleep or cron job, tis the question
-Layout: post
+title: sleep or cron job, tis the question
+layout: post
 ---
 <h1>This is a third test</h1>
 <p>I will either post this using the cron job or sleep. But I will not run my bash script directly this time.<br>
