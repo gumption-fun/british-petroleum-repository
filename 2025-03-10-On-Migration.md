@@ -27,4 +27,3 @@ title: It's Blogging Time
 <p>If we want to have an Internet that isn’t dependent on big platforms, that needs to start with us. Which has to include things like personal posts.  </p>
 <p>Meta talks about it themselves: the core product they’re selling is connecting you with your friends and family. I think that I can be connected to my loved ones without Zuck and his algorithms and his ads mediating the process. This blog project, if successful, will prove that.  </p>
 <p>love yah,<br>Ryan  </p>
-<p>[^1]: I was never a real junkie but it was still enough to form a habit.<br>[^2]: Steve Anderson, the director of <em>Meet The Robinson’s,</em> was following me? Which was lovely (he’s a lovely man) but did make me overthink posting.<br>[^3]: Hi Michelle! ❤️ &lt;3</p>
